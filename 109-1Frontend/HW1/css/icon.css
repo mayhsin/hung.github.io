@@ -1,0 +1,149 @@
+    .circle {
+
+        border-radius: 50%;
+        ;
+        display: inline-block;
+        border-style: solid;
+        border-width: 3.5px;
+        border-color: #808080;
+    }
+
+
+    .rounded-rectangle {
+        width: 500px;
+        height: 500px;
+        border-radius: 15%;
+        ;
+        display: inline-block;
+        border-style: solid;
+        border-width: 3.5px;
+        border-color: #808080;
+
+    }
+
+    .i {
+        background-image: url('https://cool.ntu.edu.tw/courses/3762/files/407150/preview');
+
+        height: 500px;
+        width: 500px
+    }
+
+    .i-person {
+        width: 65px;
+        height: 65px;
+        background-position-x: -38px;
+        background-position-y: -40px;
+
+    }
+
+    .i-phone {
+        width: 65px;
+        height: 65px;
+        background-position-x: -155px;
+        background-position-y: -40px;
+
+    }
+
+    .i-message {
+        width: 65px;
+        height: 65px;
+        background-position-x: -276px;
+        background-position-y: -38px;
+
+    }
+
+    .i-clock {
+        width: 65px;
+        height: 65px;
+        background-position-x: -394px;
+        background-position-y: -38px;
+
+    }
+
+    .i-music {
+        width: 65px;
+        height: 65px;
+        background-position-x: -40px;
+        background-position-y: -156px;
+
+    }
+
+    .i-photo {
+        width: 65px;
+        height: 65px;
+        background-position-x: -156px;
+        background-position-y: -158px;
+
+    }
+
+    .i-photocamera {
+        width: 65px;
+        height: 65px;
+        background-position-x: -275px;
+        background-position-y: -158px;
+
+    }
+
+    .i-videocamera {
+        width: 65px;
+        height: 65px;
+        background-position-x: -393px;
+        background-position-y: -158px;
+
+    }
+
+    .i-webcam {
+        width: 65px;
+        height: 65px;
+        background-position-x: -38px;
+        background-position-y: -279px;
+    }
+
+    .i-microphone {
+        width: 65px;
+        height: 65px;
+        background-position-x: -156px;
+        background-position-y: -279px;
+    }
+
+    .i-trashcan {
+        width: 65px;
+        height: 65px;
+        background-position-x: -276px;
+        background-position-y: -275px;
+    }
+
+    .i-find {
+        width: 65px;
+        height: 65px;
+        background-position-x: -396px;
+        background-position-y: -275px;
+    }
+
+    .i-location {
+        width: 65px;
+        height: 65px;
+        background-position-x: -37px;
+        background-position-y: -395px;
+    }
+
+    .i-setting {
+        width: 65px;
+        height: 65px;
+        background-position-x: -156px;
+        background-position-y: -396px;
+    }
+
+    .i-speaker {
+        width: 65px;
+        height: 65px;
+        background-position-x: -277px;
+        background-position-y: -396px;
+    }
+
+    .i-note {
+        width: 65px;
+        height: 65px;
+        background-position-x: -395px;
+        background-position-y: -396px;
+    }
