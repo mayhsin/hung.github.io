@@ -1,0 +1,86 @@
+.up {
+    position: absolute;
+
+
+    z-index: 2;
+}
+
+.under {
+    position: absolute;
+
+
+    z-index: 1;
+
+}
+
+.i {
+    position: absolute;
+    left: 25px;
+    top: 73px;
+}
+
+.a {
+    position: absolute;
+    left: 100px;
+    top: 68px;
+}
+
+.b {
+    position: absolute;
+    left: 225px;
+    top: 148px;
+}
+
+.c {
+    position: absolute;
+    left: 290px;
+    top: 70px;
+}
+
+.d {
+    position: absolute;
+    left: 16px;
+    top: 190px;
+}
+
+.e {
+    position: absolute;
+    left: 135px;
+    top: 268px;
+}
+
+.f {
+    position: absolute;
+    left: 195px;
+    top: 190px;
+}
+
+.g {
+    position: absolute;
+    left: 290px;
+    top: 190px;
+}
+
+.h {
+    position: absolute;
+    left: 46px;
+    top: 388px;
+}
+
+.j {
+    position: absolute;
+    left: 105px;
+    top: 310px;
+}
+
+.k {
+    position: absolute;
+    left: 227px;
+    top: 388px;
+}
+
+.l {
+    position: absolute;
+    left: 290px;
+    top: 310px;
+}
