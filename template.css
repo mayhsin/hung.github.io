@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Coda+Caption:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+body {
+
+    font-family: 'Ubuntu', BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Noto Sans TC", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji", "Noto Sans TC", sans-serif;
+}
+
+/* Remove margins and padding from the list */
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+/* Style the list items */
+ul li {
+    margin-bottom: 10px;
+    margin-left: 40px;
+    cursor: pointer;
+    position: relative;
+    padding: 10px 50px 10px;
+    width: 500px;
+    border-radius: 20px;
+    height: 40px;
+    background: #eee;
+    font-size: 30px;
+    transition: 0.2s;
+    float: left;
+
+    /* make the list items unselectable */
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+}
+
+
+
+
+/* Set all odd list items to a different color (zebra-stripes) */
+ul li:nth-child(odd) {
+    background: #f9f9f9;
+}
+
+/* Darker background-color on hover */
+ul li:hover {
+    background: #ddd;
+}
+
+/* When clicked on, add a background color and strike out text */
+ul li.checked {
+    background: #495867;
+    color: #fff;
+    text-decoration: line-through;
+}
+
+
+
+.center {
+
+
+    margin-top: 65px;
+    border-radius: 50px;
+    margin-left: 425px;
+
+}
+
+.top {
+    background-color: #f7f7ff;
+    width: 100px;
+    height: 60px;
+    margin-left: 30px;
+
+}
+
+.add {
+    padding: 10px 40px;
+    border-radius: 10px;
+    background: #fe5f55;
+    color: white;
+    float: left;
+    text-align: center;
+    font-size: 25px;
+    cursor: pointer;
+    transition: 0.3s;
+    margin-left: 30px;
+    margin-top: -50px;
+}
+
+.input {
+    margin-left: 190px;
+    margin-top: -53px;
+    padding: 15px 80px;
+    border-radius: 15px;
+    border-color: antiquewhite;
+    font-size: 20px;
+    font-family: 'Ubuntu', BlinkMacSystemFont, "Segoe UI";
+    float: left;
+    margin-bottom: 10px;
+}
+
+.but {
+    border-color: #bdd5ea;
+    background-color: #f7f7ff;
+
+    margin-left: 10px;
+    margin-top: -10px;
+    border-radius: 50px;
+    width: 155px;
+    height: 60px;
+    float: left;
+}
+
+.bu1 {
+    margin-top: -496px;
+    margin-left: 150px;
+    float: left;
+
+}
+
+.bu2 {
+    margin-top: -428px;
+    margin-left: 150px;
+    float: left;
+
+}
+
+.bu3 {
+    margin-top: -360px;
+    margin-left: 150px;
+    float: left;
+
+}
+
+.bu4 {
+    margin-top: -292px;
+    margin-left: 150px;
+    float: left;
+
+}
+
+.bu5 {
+    margin-top: -224px;
+    margin-left: 150px;
+    float: left;
+
+}
+
+.bu6 {
+    margin-top: -156px;
+    margin-left: 150px;
+    float: left;
+
+}
+
+.bu7 {
+    margin-top: -88px;
+    margin-left: 150px;
+    float: left;
+
+}
+
+.bu11 {
+    margin-left: 320px;
+}
+
+.bu12 {
+    margin-left: 490px;
+}
+
+.h {
+    font-family: 'Josefin Sans', BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Noto Sans TC", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji", "Noto Sans TC", sans-serif;
+    font-size: 28px;
+    color: #495867;
+    margin-left: 35px;
+    float: left;
+    margin-top: -60px;
+    line-height: 68px
+}
